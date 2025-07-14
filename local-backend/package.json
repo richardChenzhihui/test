@@ -1,0 +1,17 @@
+{
+  "name": "local-backend",
+  "version": "1.0.0",
+  "description": "Local backend for Word legal assistant with knowledge base and OpenAI integration.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "axios": "^1.6.7"
+  }
+}
