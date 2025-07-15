@@ -1,7 +1,10 @@
-PyQt5>=5.15.0
-pdfplumber>=0.10.0
-python-docx>=0.8.11
-chromadb>=0.4.22
-openai>=1.0.0
-tqdm>=4.64.0
-loguru>=0.7.0
+torch>=2.0.0
+transformers>=4.36.0
+peft>=0.7.0
+deepspeed
+datasets
+pandas
+python-docx
+tqdm
+scipy
+pyarrow
